@@ -1,0 +1,36 @@
+.container {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.reveal .col {
+  flex-grow: 1;
+  display: inline-block;
+  margin: 0 15px;
+}
+.reveal .col img {
+  margin: 0;
+}
+.me {
+  width: 250px;
+  margin: 10px 0 0 0;
+}
+
+.password {
+  width: 80%;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 70px;
+  border-radius: 10px;
+}
+
+
+.reveal .weak h2 {
+  color: red;
+}
+.reveal .medium h2 {
+  color: yellow;
+}
+.reveal .strong h2 {
+  color: green;
+}
