@@ -14,4 +14,3 @@ I have generated this presentation using a small ruby gem called [reveal-ck](htt
 * [Dropbox zxcvbn](https://github.com/dropbox/zxcvbn)
 * [Ryan Winchester](http://ryanwinchester.ca/post/stop-forcing-your-arbitrary-password-rules-on-me)
 * [Bruce Schneider ted talk](https://www.ted.com/talks/bruce_schneier?language=en)
-* 
